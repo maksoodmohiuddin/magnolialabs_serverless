@@ -1,0 +1,39 @@
+{
+  "name": "magnolialabs_serverless",
+  "version": "1.0.0",
+  "description": "Serverless Application using AWS Lambda NodeJS, DynamoDB, API Gateway with CI/CD pipeline integration of github, AWS Code Pipeline, Code Build, Serverless Application Model, S3 and Cloud Formation. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksoodmohiuddin/magnolialabs_serverless.git"
+  },
+  "keywords": [
+    "Serverless",
+    "AWS",
+    "NodeJS",
+    "Lambda",
+    "DynamoDB",
+    "API",
+    "Gateway",
+    "CI/CD",
+    "Github",
+    "CodePipeline",
+    "CodeBuild",
+    "SAM",
+    "Serverless",
+    "Application",
+    "Model",
+    "S3",
+    "Cloud",
+    "Formation"
+  ],
+  "author": "Maksood Mohiuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maksoodmohiuddin/magnolialabs_serverless/issues"
+  },
+  "homepage": "https://github.com/maksoodmohiuddin/magnolialabs_serverless#readme"
+}
